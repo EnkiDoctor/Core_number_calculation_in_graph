@@ -1,6 +1,6 @@
-## Readme File 
+## Readme File  
 ****
-*This is the readme file of the sdsc3002 Assignment2*   
+*This is the readme file of the sdsc3002 Assignment2-greedy algorithm of core number calculation in graph* 
 **Name:** *Du Junye* &emsp; &emsp; &emsp; &emsp;&emsp; **SID:** *56641800*
 
 
