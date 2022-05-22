@@ -4,8 +4,8 @@
 **Name:** *Du Junye* &emsp; &emsp; &emsp; &emsp;&emsp; **SID:** *56641800*
 
 
+![image-20220523020227389](https://user-images.githubusercontent.com/76908071/169709471-502b2a50-3083-4805-b8af-c16aba45cc4b.png)
 
-![image-20220523020227389](D:\OneDrive - City University of Hong Kong - Student\SemB 课程资料\sdsc3002\3002assignment2\Core_number_calculation_in_graph\image-20220523020227389.png)
 
 **Python Verison and Package version:**  
 
